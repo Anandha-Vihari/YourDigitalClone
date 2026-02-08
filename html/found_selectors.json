@@ -1,0 +1,257 @@
+[
+  {
+    "tag": "SPAN",
+    "id": "",
+    "className": "ng-star-inserted",
+    "selector": "span.ng-star-inserted",
+    "textLength": 15,
+    "textPreview": ", missing u too",
+    "rect": {
+      "x": 398,
+      "y": 213,
+      "w": 91,
+      "h": 17
+    },
+    "childCount": 0
+  },
+  {
+    "tag": "LABS-TAILWIND-ROOT",
+    "id": "",
+    "className": "",
+    "selector": "labs-tailwind-root",
+    "textLength": 4692,
+    "textPreview": "add\nCreate notebook\nshare\nShare\nsettings\nSettings\nSources\ndock_to_right\nadd\nAdd sources\n🔎\nTry Deep Research for an in-depth report and new sources!\nsearch\nlanguage\nkeyboard_arrow_down\nsearch_spark\nke",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 585
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "CHAT-MESSAGE",
+    "id": "",
+    "className": "individual-message ng-star-inserted",
+    "selector": "chat-message.individual-message.ng-star-inserted",
+    "textLength": 227,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67\nkeep_pin\nSave to note\nc",
+    "rect": {
+      "x": 358,
+      "y": 194,
+      "w": 552,
+      "h": 176
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "to-user-container",
+    "selector": "div.to-user-container",
+    "textLength": 227,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67\nkeep_pin\nSave to note\nc",
+    "rect": {
+      "x": 358,
+      "y": 194,
+      "w": 552,
+      "h": 176
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "MAT-CARD-CONTENT",
+    "id": "",
+    "className": "mat-mdc-card-content message-content to-user-message-inner-content",
+    "selector": "mat-card-content.mat-mdc-card-content.message-content.to-user-message-inner-content",
+    "textLength": 176,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67",
+    "rect": {
+      "x": 358,
+      "y": 194,
+      "w": 520,
+      "h": 100
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "message-text-content mat-body-medium",
+    "selector": "div.message-text-content.mat-body-medium",
+    "textLength": 176,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67",
+    "rect": {
+      "x": 363,
+      "y": 210,
+      "w": 510,
+      "h": 84
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "ng-star-inserted",
+    "selector": "div.ng-star-inserted",
+    "textLength": 176,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67",
+    "rect": {
+      "x": 363,
+      "y": 210,
+      "w": 510,
+      "h": 72
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "LABS-TAILWIND-STRUCTURAL-ELEMENT-VIEW-V2",
+    "id": "",
+    "className": "ng-star-inserted",
+    "selector": "labs-tailwind-structural-element-view-v2.ng-star-inserted",
+    "textLength": 176,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67",
+    "rect": {
+      "x": 363,
+      "y": 210,
+      "w": 510,
+      "h": 72
+    },
+    "childCount": 1
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "app-body",
+    "selector": "div.app-body",
+    "textLength": 4692,
+    "textPreview": "add\nCreate notebook\nshare\nShare\nsettings\nSettings\nSources\ndock_to_right\nadd\nAdd sources\n🔎\nTry Deep Research for an in-depth report and new sources!\nsearch\nlanguage\nkeyboard_arrow_down\nsearch_spark\nke",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 585
+    },
+    "childCount": 2
+  },
+  {
+    "tag": "SECTION",
+    "id": "",
+    "className": "chat-panel ng-tns-c877011447-0",
+    "selector": "section.chat-panel.ng-tns-c877011447-0",
+    "textLength": 3823,
+    "textPreview": "Chat\ntune\nmore_vert\n👩‍❤️‍👨\nHackathons and Heartbeats: A College Romance Log\n1 source\n\nThis personal chat log documents the evolving relationship between two students, Anandha and D, over several mon",
+    "rect": {
+      "x": 342,
+      "y": 64,
+      "w": 596,
+      "h": 499
+    },
+    "childCount": 2
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "chat-message-pair ng-star-inserted",
+    "selector": "div.chat-message-pair.ng-star-inserted",
+    "textLength": 279,
+    "textPreview": "Reply as Anandha, in his texting style: I miss you\n\nHmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides han",
+    "rect": {
+      "x": 358,
+      "y": 129,
+      "w": 552,
+      "h": 369
+    },
+    "childCount": 2
+  },
+  {
+    "tag": "CHAT-PANEL",
+    "id": "",
+    "className": "ng-tns-c877011447-0",
+    "selector": "chat-panel.ng-tns-c877011447-0",
+    "textLength": 3803,
+    "textPreview": "👩‍❤️‍👨\nHackathons and Heartbeats: A College Romance Log\n1 source\n\nThis personal chat log documents the evolving relationship between two students, Anandha and D, over several months in 2025 and earl",
+    "rect": {
+      "x": 342,
+      "y": 113,
+      "w": 596,
+      "h": 450
+    },
+    "childCount": 3
+  },
+  {
+    "tag": "MAT-CARD",
+    "id": "",
+    "className": "mat-mdc-card mdc-card to-user-message-card-content",
+    "selector": "mat-card.mat-mdc-card.mdc-card.to-user-message-card-content",
+    "textLength": 227,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67\nkeep_pin\nSave to note\nc",
+    "rect": {
+      "x": 358,
+      "y": 194,
+      "w": 520,
+      "h": 160
+    },
+    "childCount": 3
+  },
+  {
+    "tag": "NOTEBOOK",
+    "id": "",
+    "className": "ng-tns-c877011447-0 ng-star-inserted",
+    "selector": "notebook.ng-tns-c877011447-0.ng-star-inserted",
+    "textLength": 4692,
+    "textPreview": "add\nCreate notebook\nshare\nShare\nsettings\nSettings\nSources\ndock_to_right\nadd\nAdd sources\n🔎\nTry Deep Research for an in-depth report and new sources!\nsearch\nlanguage\nkeyboard_arrow_down\nsearch_spark\nke",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 585
+    },
+    "childCount": 4
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "panel-container ng-tns-c877011447-0 ng-star-inserted",
+    "selector": "div.panel-container.ng-tns-c877011447-0.ng-star-inserted",
+    "textLength": 4577,
+    "textPreview": "Sources\ndock_to_right\nadd\nAdd sources\n🔎\nTry Deep Research for an in-depth report and new sources!\nsearch\nlanguage\nkeyboard_arrow_down\nsearch_spark\nkeyboard_arrow_down\narrow_forward\nSelect all sources",
+    "rect": {
+      "x": 16,
+      "y": 64,
+      "w": 1248,
+      "h": 499
+    },
+    "childCount": 5
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "chat-panel-content",
+    "selector": "div.chat-panel-content",
+    "textLength": 3780,
+    "textPreview": "👩‍❤️‍👨\nHackathons and Heartbeats: A College Romance Log\n1 source\n\nThis personal chat log documents the evolving relationship between two students, Anandha and D, over several months in 2025 and earl",
+    "rect": {
+      "x": 342,
+      "y": 129,
+      "w": 596,
+      "h": 369
+    },
+    "childCount": 9
+  },
+  {
+    "tag": "DIV",
+    "id": "",
+    "className": "paragraph normal ng-star-inserted",
+    "selector": "div.paragraph.normal.ng-star-inserted",
+    "textLength": 176,
+    "textPreview": "Hmm, missing u too12. Yeah yeah, it feels like something is missing when we don't meet in clg3.... Inka, cheppu what are you doing today besides hanging those clothes to dry?67",
+    "rect": {
+      "x": 363,
+      "y": 210,
+      "w": 510,
+      "h": 72
+    },
+    "childCount": 18
+  }
+]

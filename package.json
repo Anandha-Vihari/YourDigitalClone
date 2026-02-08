@@ -1,0 +1,33 @@
+{
+  "name": "yourdigitalclone",
+  "version": "1.0.0",
+  "description": "Your Digital Clone - WhatsApp bot powered by NotebookLM RAG for intelligent replies matching your communication style",
+  "main": "src/core/bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/core/bot.js",
+    "test": "node tests/test-notebooklm.js",
+    "wa:login": "set WA_ONLY=1&& node src/core/bot.js",
+    "wa:send": "node scripts/wa-send.js",
+    "wa:reset": "node scripts/wa-reset.js",
+    "wa:min": "node src/core/whatsapp-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "dotenv": "^17.2.3",
+    "pino": "^9.0.0",
+    "puppeteer": "^23.0.0",
+    "puppeteer-core": "^24.36.0",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "write-file-atomic": "^7.0.0"
+  },
+  "keywords": [
+    "whatsapp",
+    "notebooklm",
+    "automation",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT"
+}
